@@ -1,0 +1,121 @@
+html {
+  background: url(../img/light-live-background-css.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+
+}
+
+
+header img{
+  width:170px;
+  height:195px;
+  padding: 40px;
+  margin:100 auto;
+  border-radius: 50%;
+
+}
+
+/*.comp{
+width:50;
+}
+.info{
+width: 50%;
+
+}
+
+.educ{
+margin-right: 90px;
+width: 50%;
+
+}*/
+main {
+  display: flex;
+  flex-flow: row wrap;
+  background-image: url("../img/snow_crystal_christmas.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 5px double ;
+}
+
+main section{
+  flex-basis:48%;
+  padding: 12px;
+  font-style:oblique;
+
+
+}
+
+.headd{text-align: center;
+  background: url(../img/22bfe01e5b7c658fcf616b02ae726142efb1b94c.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  padding-bottom: 3%;
+  color:inherit;
+
+}
+
+.comp{
+  background: url(../img/vIq1C.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  height: 60%;
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: center;
+
+
+}
+.comp ul li{
+  text-align: left;
+  margin-left: 30%;
+}
+.interet{
+  background: url(../img/56be155c41380152d683706b.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+
+
+}
+h1 {
+  font-family: Lobster;
+  font-size: 33px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+}
+h3, h5 {
+  font-family: Lobster;
+  font-size: 25px;
+  font-style:oblique;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 15.4px;
+}
+p, address {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+
+}
+.info{
+  background: url(../img/Light-Pink-Background-Color-620x413.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+}
+.educ{
+  background: url(../img/1Nv9mpa.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+
+}
+.exp{
+  background: url(../img/snow_crystal_christmas.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+
+}
+.print{
+  margin-left: 410px;
+  color: black;
+}
+
+.back-to-top{
+
+  position: fixed;
+  bottom: 8%;
+  right: 12px;
+  color: orange;
+}
